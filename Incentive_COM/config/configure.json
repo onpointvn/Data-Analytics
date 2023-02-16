@@ -1,4 +1,4 @@
-{"postgre_db":
+{"biwarehouse":
     {
         "host" : "biwarehouse.cybjleasxg2d.ap-southeast-1.rds.amazonaws.com",
         "port" : "5432",
