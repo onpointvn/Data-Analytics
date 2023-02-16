@@ -1,0 +1,9 @@
+{"postgre_db":
+    {
+        "host" : "biwarehouse.cybjleasxg2d.ap-southeast-1.rds.amazonaws.com",
+        "port" : "5432",
+        "dbname" : "biwarehouse",
+        "user" : "loi_pham",
+        "password" : "loi_pham@123@"
+    }
+}
